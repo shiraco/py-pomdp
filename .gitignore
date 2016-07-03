@@ -6,3 +6,5 @@ htmlcov/
 .direnv/
 
 .ipynb_checkpoints/
+
+.idea/
