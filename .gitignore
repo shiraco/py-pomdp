@@ -4,3 +4,5 @@ htmlcov/
 
 .envrc
 .direnv/
+
+.ipynb_checkpoints/
