@@ -1,5 +1,8 @@
-elementtree
-numpy
-pep8
-coverage
-python-coveralls
+coverage==4.0.3
+numpy==1.11.1
+pep8==1.7.0
+python-coveralls==2.7.0
+PyYAML==3.11
+requests==2.10.0
+sh==1.11
+six==1.10.0
